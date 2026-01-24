@@ -1,12 +1,12 @@
-Project Journal – Ultrasensitive Electroscope
+# Project Journal – Ultrasensitive Electroscope
 
 This journal documents my progress, decisions, experiments, and learnings while building an ultrasensitive electroscope.
 
 ---
 
-Day 1 – Project Idea & Research
+# Day 1 – Project Idea & Research
 
-Thursday 8 January,2025
+## Thursday 8 January,2025
 
  What I did
 - Researched traditional electroscopes and their limitations
@@ -20,13 +20,13 @@ What I learned
 - Sensitivity is strongly affected by mass, insulation, and air currents
 - Charge leakage is a major limiting factor
 
-Time Spent: 3 hours 
+ ### Time Spent: 3 hours 
 
 ---
 
- Day 2 – Design & Materials
+ # Day 2 – Design & Materials
  
-Friday 9 Jan,2025
+## Friday 9 Jan,2025
 
 What I did
 - Identifying the gaps and weaknesses in the last version : Low Accuracy - LCD wasn't efficient - High noise 
@@ -39,12 +39,12 @@ Challenges
  What I learned
 - Even small increases in mass significantly reduce responsiveness
 
-Time Spent: 2 Hours 
+ ### Time Spent: 2 Hours 
 
 ---
 
- Day 3 – Development 
-Saturday 10 Jan,2025
+ # Day 3 – Development 
+## Saturday 10 Jan,2025
 
  What I did
 - Searching more about Op-Ampilifiers and their types, specifically: Rail to rail. 
@@ -63,12 +63,12 @@ Saturday 10 Jan,2025
 Why?
 - The old op amp used wasn't rail to rail; so, the readings were random. 
 - LCD wasn't good for displaying the Charge every 0.5 second
-Time spent: 4 hours 
+### Time spent: 4 hours 
  
 ---
 
- Day 4 – Designing the new circuit 
-Sunday 11 Jan,2025
+# Day 4 – Designing the new circuit 
+## Sunday 11 Jan,2025
 What I did
 - Making a new Schematic diagram 
 - Applying the new circuit in real life 
@@ -79,12 +79,12 @@ Results
 - More stable readings
 - Prototype is affected mostly by the Enviromental conditions 
 
-Time Spent: 6 hours 
+### Time Spent: 6 hours 
 
 ----------
 
-Day 5 - Improving the accuracy and environmetal stability
-Monday 12 Jan, 2025
+ # Day 5 - Improving the accuracy and environmetal stability
+ ## Monday 12 Jan, 2025
 
 What I did
 - Searching more about Isolation systems and possible materials can be used. 
@@ -95,6 +95,6 @@ Results:
 - Noticeable increase in sensitivity
 -  More stable readings
 
-Time Spent: 4 hours 
+### Time Spent: 4 hours 
 
 

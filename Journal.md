@@ -15,7 +15,7 @@ I spent this day researching how traditional electroscopes work and why they str
 **What I learned**
 I learned that sensitivity depends heavily on factors like the mass of moving parts, insulation quality, and even small air currents. I also realized that charge leakage is one of the biggest limitations in high-sensitivity electroscopes.
 
-**Time Spent:** 2 hours
+**Time Spent:** 3 hours
 
 ---
 
@@ -79,4 +79,4 @@ I researched different isolation methods and materials that could reduce environ
 **Results**
 After these changes, the electroscope showed higher sensitivity and noticeably more stable readings under the same environmental conditions.
 
-**Time Spent:** 4 hours
+**Time Spent:** 5 hours

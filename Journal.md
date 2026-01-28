@@ -61,7 +61,7 @@ I designed a new schematic diagram using the updated components and built the ci
 
 **Results**
 The new design showed a clear increase in sensitivity and much more stable readings. However, the prototype was still strongly affected by environmental conditions such as air movement, humidity, and nearby electronics.
-
+https://github-production-user-asset-6210df.s3.amazonaws.com/198824303/540297056-71031d59-0c0b-4225-bf9b-b848aba9cee7.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260128%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260128T012813Z&X-Amz-Expires=300&X-Amz-Signature=8841f3a460af1de9d1d81f581126e869c8b90944d99e839a0b44d50feddbd0f7&X-Amz-SignedHeaders=host
 **Time Spent:** 6 hours
 
 ---
@@ -70,7 +70,10 @@ The new design showed a clear increase in sensitivity and much more stable readi
 
 ## Monday, 12 January 2025
 
-**What I did**
+**What I did**![68004283-0d6f-41e9-877f-bf8fc6f87e1f](https://github.com/user-attachments/assets/31e15107-b57d-4508-83a1-012fb7811b01)
+![10542946-7b8f-4b28-8187-6fa6c3a502c8](https://github.com/user-attachments/assets/d0eae1c1-22fd-431c-87a7-93c3392f882c)
+![6-500x500](https://github.com/user-attachments/assets/08d4f060-a962-414b-8758-e9302d6ed070)
+
 I researched different isolation methods and materials that could reduce environmental interference. Based on this, I designed a 3D model of an isolation box made from acrylic sheets to protect the sensitive components. I also explored different probe designs and built a new double circular sandwich-style probe using aluminum foil.
 
 **Results**
